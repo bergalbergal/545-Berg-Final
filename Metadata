@@ -1,33 +1,33 @@
 <?xml version="4.4" encoding="UTF-8"?>
 <resource>
-	<creators>
-    <creator>
-			<creatorName nameType="Personal">Conrady, Brandon</creatorName>
-      <givenName>Brandon</givenName>
-      <familyName>Conrady</familyName>
-    </creator>
-   </creators>
-	 <titles>
-	 	<title xml:lang="en">Starbucks Union Election Results</title>
-	</titles>
-	<coverage>
-		<coverageStart>12/08/2021</coverageStart>
-		<coverageEnd>05/02/2022</coverageEnd>
-		<coveragePlace>United States</coveragePlace>
-	</coverage>
-	<provenance>More Perfect Union reporting https://perfectunion.us/map-where-are-starbucks-workers-unionizing/</provenance>
-	<language>en</language>
-	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
-	<version>1.0</version>
-	<copyright>CC0:Public Domain</copyright>
-	<subjects>
-		<subject xml:lang="en">Business</subject>
-		<subject xml:lang="en">Politics</subject>
-		<subject xml:lang="en">Economics</subject>
-		<subject xml:lang="en">Statistical Analysis</subject>
-		<subject xml:lang="en">Labor Union</subject>
-	</subjects>
-	<descriptions>
-		<description xml:lang="en" descriptionType="About Dataset">Dataset of all Starbucks union elections thus far. Note that new elections are set to occur in the coming weeks/months, so this list is subject to change more so than my prior datasets. For some background, at the tail end of last year, we began to see a wave of union elections occur at various Starbucks locations. At the time of writing this, there are around 300 stores at some stage of unionization with 172 of them having unionized. Bear in mind this figure is subject to much change as there are several upcoming union elections, and new locations seem to file for elections every week.</description>
-	</descriptions>
+<creators>
+<creator>
+<creatorName nameType="Personal">Conrady, Brandon</creatorName>
+<givenName>Brandon</givenName>
+<familyName>Conrady</familyName>
+</creator>
+</creators>
+<titles>
+<title xml:lang="en">Starbucks Union Election Results</title>
+</titles>
+<coverage>
+<coverageStart>12/08/2021</coverageStart>
+<coverageEnd>05/02/2022</coverageEnd>
+<coveragePlace>United States</coveragePlace>
+</coverage>
+<provenance>More Perfect Union reporting https://perfectunion.us/map-where-are-starbucks-workers-unionizing/</provenance>
+<language>en</language>
+<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+<version>1.0</version>
+<copyright>CC0:Public Domain</copyright>
+<subjects>
+<subject xml:lang="en">Business</subject>
+<subject xml:lang="en">Politics</subject>
+<subject xml:lang="en">Economics</subject>
+<subject xml:lang="en">Statistical Analysis</subject>
+<subject xml:lang="en">Labor Union</subject>
+</subjects>
+<descriptions>
+<description xml:lang="en" descriptionType="About Dataset">Dataset of all Starbucks union elections thus far. Note that new elections are set to occur in the coming weeks/months, so this list is subject to change more so than my prior datasets. For some background, at the tail end of last year, we began to see a wave of union elections occur at various Starbucks locations. At the time of writing this, there are around 300 stores at some stage of unionization with 172 of them having unionized. Bear in mind this figure is subject to much change as there are several upcoming union elections, and new locations seem to file for elections every week.</description>
+</descriptions>
 </resource>
