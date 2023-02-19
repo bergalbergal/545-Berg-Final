@@ -1,0 +1,12 @@
+Field definitions for Starbucks Union Election Results data 
+
+Column 1: Store: Name of store where election took place
+Column 2: Location: City store is located in
+Column 3: State: State store is located in
+Column 4: RTWState: Whether or not the state is a Right to Work state
+Column 5: FileDate: Date the union filed for election
+Column 6: VoteCountDate: Date that union election votes were counted
+Column 7: FileToCountDays: Number of days between filing for election and vote count
+Column 8: VotesYes: Votes in favor of union representation
+Column 9: VotesNo: Votes against union representation 
+Column 10: VotesTotal: Total votes 
