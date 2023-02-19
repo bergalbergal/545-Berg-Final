@@ -8,6 +8,6 @@ Included in the repository:
 1. Starbucks Union Election Results: Data file in .csv format 
 2. Metadata: Bibiliographic and descriptive metadata
 3. Field definitions: Defining the column headings of the Starbucks Union Election Results csv file
-4. Data and metadata profile: Description and analysis of data and metadata of original data found in Kaggle
+4. Data and metadata profile: Profile of data and metadata originally found in Kaggle
 5. Repository profile: Profile of the Inter-university Consortium for Political and Social Research (ICPSR) repository
 6. Additional curation considerations: Discussion of data citation, preservation, copyright, and human subject considerations 
