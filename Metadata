@@ -13,12 +13,9 @@
 </titles>
 <publisher xml:lang="en">Kaggle Repository</publisher>
 <publicationYear>2022</publicationYear>
-<coverage>
-<coverageStart>12/08/2021</coverageStart>
-<coverageEnd>05/02/2022</coverageEnd>
-<coveragePlace>United States</coveragePlace>
-</coverage>
-<provenance>More Perfect Union reporting https://perfectunion.us/map-where-are-starbucks-workers-unionizing/</provenance>
+<dates>
+<date dateType="Collected">21-12-08/22-05-22</date>
+</dates> 
 <language>en</language>
 <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
 <version>1.0</version>
